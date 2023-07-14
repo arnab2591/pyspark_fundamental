@@ -1,0 +1,12 @@
+empid,empName,gender,salary,department
+1,A,male,5000,IT
+2,B,male,3000,Payroll
+3,C,female,3000,Payroll
+4,D,male,4000,HR
+5,E,female,3000,IT
+6,F,female,2500,HR
+7,G,female,4000,IT
+8,H,male,2000,Payroll
+9,I,female,1500,IT
+10,J,male,2000,IT
+11,K,female,3000,IT
